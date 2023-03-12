@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&display=swap');
+
+body{
+    background-color: hsl(209, 27%, 78%);
+    overflow: hidden;
+}
+.fullpage{
+    position: relative;
+    bottom: 60px;
+
+}
+h2{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    margin-left: 70px;
+    position: relative;
+    bottom: 20px;
+    opacity: 50%;
+}
+img{
+    border: 2px solid hsl(263, 52%, 36%);
+    border-radius: 50px;
+    position: relative;
+    top: 30px;
+}
+.titulo{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-style: oblique;
+}
+.frase{
+    font-family:'Barlow Semi Condensed', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    opacity: 70%;
+    font-weight:bolder
+}
+.daniel{
+    background-color: hsl(263, 55%, 52%);
+    display: inline-block;
+    border: none;
+    border-radius: 25px;
+    padding: 20px;
+    color: white;
+    margin-left: 300px;
+    position: relative;
+    bottom: 150px;
+
+}
+.jonathan{
+    background-color: hsl(217, 19%, 35%);
+    display: inline-block;
+    border: none;
+    border-radius: 25px;
+    padding: 20px;
+    color: white;
+    position: relative;
+    bottom: 125px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    max-height: 330px;
+
+}
+.kira{
+    background-color: white;
+    display: inline-block;
+    border: none;
+    border-radius: 25px;
+    padding: 20px;
+    color: black;
+    position: relative;
+    top: 150px;
+    margin-left: 20px;
+    height: 735px;
+    max-width: 735px;
+}
+.jeanette{
+    background-color: white;
+    display: inline-block;
+    border: none;
+    border-radius: 25px;
+    padding: 20px;
+    color: black;
+    position: relative;
+    right: 1305px;
+    top: 250px;
+}
+.patrick{
+    background-color: hsl(219, 29%, 14%);
+    display: inline-block;
+    border: none;
+    border-radius: 25px;
+    padding: 20px;
+    color: white;
+    position: relative;
+    left: 640px;
+    bottom: 230px;
+    margin-top: 10px;
+}
